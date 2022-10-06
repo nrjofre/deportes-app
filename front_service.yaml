@@ -1,0 +1,13 @@
+# https://kubernetes.io/docs/concepts/services-networking/service/#defining-a-service  
+kind: Service 
+apiVersion: v1 
+metadata: 
+  name: deportes-app-front-service
+spec: 
+  selector: 
+    app: deportes-app-front
+  ports: 
+  - protocol: TCP
+    port: 5000
+    nodePort: 31001
+  type: NodePort 
