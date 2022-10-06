@@ -1,0 +1,6 @@
+[submodule "deportes-app-front"]
+	path = deportes-app-front
+	url = https://github.com/laifcl/deportes-app-front
+[submodule "deportes-app-api"]
+	path = deportes-app-api
+	url = https://github.com/laifcl/deportes-app-api
