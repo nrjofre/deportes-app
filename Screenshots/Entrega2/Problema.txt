@@ -1,1 +1,0 @@
-Buildeamos los serivicios pero no podemos conectarnos a ellos a traves del ip que seteamos, realmente no sabemos como hacerlo, seguimos distintos tutoriales de como settear pero aun no llegamos a solucionarlo.

@@ -1,9 +1,9 @@
 [submodule "deportes-app-front"]
 	path = deportes-app-front
-	url = https://github.com/laifcl/deportes-app-front
+	url = https://github.com/mabarraza/deportes-app-front
 [submodule "deportes-app-api"]
 	path = deportes-app-api
-	url = https://github.com/laifcl/deportes-app-api
+	url = https://github.com/mabarraza/deportes-app-api
 [submodule "opensearch-api"]
 	path = opensearch-api
 	url = https://github.com/nrjofre/opensearch-api
